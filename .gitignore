@@ -1,3 +1,4 @@
+mypath/
 *.swp
 target/
 **/*.rs.bk
